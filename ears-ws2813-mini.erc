@@ -1,0 +1,11 @@
+ERC report (Sun 05 May 2019 04:36:56 AM PDT, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(142.24 mm, 135.89 mm): Pin 1 (Power input) of component D63 is not driven (Net 18).
+
+***** Sheet /Ears-top and bypass/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(45.72 mm, 35.56 mm): Pin 5 (Power input) of component D69 is not driven (Net 11).
+
+ ** ERC messages: 2  Errors 0  Warnings 2
